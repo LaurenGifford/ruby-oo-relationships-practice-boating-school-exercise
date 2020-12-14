@@ -14,7 +14,7 @@ class Student
     def self.all
         @@all
     end
-binding.pry
+
     def add_boating_test
     
     end
